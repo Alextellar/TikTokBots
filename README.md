@@ -93,7 +93,7 @@ Yo en este caso ya lo tengo instalado pero en consola os debería salir algo com
 
 **██████░░░░** 20mB / 100mB
 
-Al terminar la instalacion toca el paso más complicado
+Al terminar la instalacion toca el paso más complicado.
 
 ## Ajustes de pantalla
 Aqui voy a poner el codigo del programa para ver algunas cosas que hay que alterar:
@@ -148,3 +148,8 @@ col = (230, 189, 190) # Este es solo el color, no hay que cambiar nada
 searchBtn = (618 , 521) # este es el botón de buscar o como pone en la página web "search"
 midBtn = (438 , 574) # y por ultimo este es el botón que esta en el medio en el que sale El num de likes, segs, compartidas, vistas, ...
 ```
+Ya sabiendo para que es cada variable toca cambiarlas.
+primero la que pone ***loc***
+como saben al iniciar *Zefoy* **https://zefoy.com/**
+sale un contador en el que pone lo siguiente: ***Please wait 0 minute(s) 22 seconds for your next submit!***
+Pues nos centraremos en la ***P*** de ***Please*** ahí estara nuestro checker.
