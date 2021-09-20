@@ -66,3 +66,17 @@ y le dais al botón que pone ***Editar...***
 Se abrira otra ventana vosotros le dais al botón que pone ***Nuevo*** y poneis la ruta de la carpeta
 
 Luego le dais a todas las pestañas ***Aceptar*** y estaria añadido al path.
+
+En la **cmd** escriba el siguiente comando:
+```
+pip --version
+```
+
+Y Deberia salir ahora si esto:
+
+```
+C:\Users\UserName>pip --version
+pip 21.2.4 from c:\users\UserName\appdata\local\programs\python\python39\lib\site-packages\pip (python 3.9)
+
+C:\Users\UserName>
+```
