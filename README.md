@@ -88,4 +88,7 @@ en el **cmd** tendrás que poner lo siguiente:
 pip install pyautogui
 ```
 
-Esto lo que hara sera añadir al ordenador la libreria necesaria para que funcione el programa
+Esto lo que hara sera añadir al ordenador la libreria necesaria para que funcione el programa.
+Yo en este caso ya lo tengo instalado pero en consola os debería salir algo como una barra de carga asgo así:
+
+**██████▓▓▓▒▒▒░░░░**
