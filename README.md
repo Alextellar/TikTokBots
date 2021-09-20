@@ -89,6 +89,46 @@ pip install pyautogui
 ```
 
 Esto lo que hara sera añadir al ordenador la libreria necesaria para que funcione el programa.
-Yo en este caso ya lo tengo instalado pero en consola os debería salir algo como una barra de carga asgo así:
+Yo en este caso ya lo tengo instalado pero en consola os debería salir algo como una barra de carga algo así:
 
 **██████░░░░** 20mB / 100mB
+
+Al terminar la instalacion toca el paso más complicado
+
+## Ajustes de pantalla
+Aqui voy a poner el codigo del programa para ver algunas cosas que hay que alterar:
+
+```python
+import pyautogui as p
+import time
+
+#----------------------------------------------------------------
+# Created by: Alextellar (Alextellar#3622 in discord)
+# Pag web require = zeftoy.com
+#
+
+x, y = p.position()
+print(x, ",", y)
+
+loc = (176 , 567)
+col = (230, 189, 190)
+searchBtn = (618 , 521)
+midBtn = (438 , 574)
+
+while True:
+    a = p.screenshot()
+    if a.getpixel(loc) != col:
+        print("yes!")
+        p.moveTo(searchBtn[0], searchBtn[1])
+        time.sleep(0.1)
+        p.click()
+        time.sleep(2.5)
+        p.moveTo(midBtn[0], midBtn[1])
+        time.sleep(0.1)
+        p.click()
+        time.sleep(3)
+
+    else:
+        print("No :(")
+    time.sleep(1)
+```
