@@ -164,4 +164,5 @@ En primer lugar tenemos en el repositorio el archivo llamado ***Cords.py*** este
 
 Lo que dire a continuacion sera temporal es decir lo podeis eliminar cuando diga que ya no sera necesario.
 
-1.Crea una carpeta en el escritorio y llamala "***a***" asi tal cual, *a*, y dentro mete en un archivo de python ***.py***
+1.Crea una carpeta en el escritorio y llamala "***a***" asi tal cual, *a*, y dentro mete en un archivo de python (***.py***)
+en ese archivo mete el siguiente texto (***es el mismo texto en en el cords.py***)
