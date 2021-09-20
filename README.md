@@ -44,3 +44,8 @@ Siga los siguientes pasos.
        en la lupa de windows solo tienes que escribir *"pip"*
        y te deberia salir un programa llamado **pip** con el icono
        de *python*. Si es así dale al boton que pone: *Abrir ubicación del archivo*
+
+**2.** Añadir la carpeta al path.
+Actualmente deberias tener el explorador de windows con una carpeta en el que hay varios archivos,
+y uno de ellos deberia ser *pip.exe* si es asi haz lo siguiente.
+Copia la ruta de la carpeta **Si no sabes copiar la ruta te doy un enlace que te enseña a copiarla**
