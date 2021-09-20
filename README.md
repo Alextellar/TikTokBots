@@ -132,3 +132,19 @@ while True:
         print("No :(")
     time.sleep(1)
 ```
+
+En el codigo deberían ver algo que pone:
+```python
+loc = (176 , 567)
+col = (230, 189, 190)
+searchBtn = (618 , 521)
+midBtn = (438 , 574)
+```
+Aqui se declaran las variables, y voy a explicar para que es cada una
+
+```python
+loc = (176 , 567) # Esta es la posicion del checker, es decir que cuando algo cambie en esa posicion se activa el programa 
+col = (230, 189, 190) # Este es solo el color, no hay que cambiar nada
+searchBtn = (618 , 521) # este es el botón de buscar o como pone en la página web "search"
+midBtn = (438 , 574) # y por ultimo este es el botón que esta en el medio en el que sale El num de likes, segs, compartidas, vistas, ...
+```
