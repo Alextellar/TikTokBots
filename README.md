@@ -41,7 +41,7 @@ Siga los siguientes pasos.
 
 **1.** Encontrar la carpeta de PIP.
        para encontrar la carpeta no es muy difícil,
-       en la lupa de windows solo tienes que escribir *"pip"*
+       en la lupa de windows ***Que Se encuentra en la barra de tareas*** solo tienes que escribir lo siguiente "` pip `"
        y te deberia salir un programa llamado **pip** con el icono
        de *python*. Si es así dale al boton que pone: *Abrir ubicación del archivo*
 
@@ -49,3 +49,5 @@ Siga los siguientes pasos.
 Actualmente deberias tener el explorador de windows con una carpeta en el que hay varios archivos,
 y uno de ellos deberia ser *pip.exe* si es asi haz lo siguiente.
 Copia la ruta de la carpeta **Si no sabes copiar la ruta te doy un enlace que te enseña a copiarla**
+https://www.pchardwarepro.com/como-copiar-la-ruta-de-un-archivo-o-una-carpeta-en-windows-10-8-7/
+Ya copiada te diriges a la lupa de windows ***Que Se encuentra en la barra de tareas*** y escribes lo siguiente
