@@ -25,7 +25,7 @@ pip 21.2.4 from c:\users\UserName\appdata\local\programs\python\python39\lib\sit
 C:\Users\UserName>
 ```
 
-Singnifica que esta añadido y puedes ir al siguiente paso
+Significa que esta añadido y puedes ir Directamente a los siguientes pasos
 
 si sale lo siguiente:
 
@@ -38,3 +38,9 @@ C:\Users\UserName>
 ```
 
 Siga los siguientes pasos.
+
+**1.** Encontrar la carpeta de PIP.
+       para encontrar la carpeta no es muy difícil,
+       en la lupa de windows solo tienes que escribir *"pip"*
+       y te deberia salir un programa llamado **pip** con el icono
+       de *python*. Si es así dale al boton que pone: *Abrir ubicación del archivo*
