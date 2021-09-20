@@ -49,5 +49,12 @@ Siga los siguientes pasos.
 Actualmente deberias tener el explorador de windows con una carpeta en el que hay varios archivos,
 y uno de ellos deberia ser *pip.exe* si es asi haz lo siguiente.
 Copia la ruta de la carpeta **Si no sabes copiar la ruta te doy un enlace que te enseña a copiarla**
+
 https://www.pchardwarepro.com/como-copiar-la-ruta-de-un-archivo-o-una-carpeta-en-windows-10-8-7/
-Ya copiada te diriges a la lupa de windows ***Que Se encuentra en la barra de tareas*** y escribes lo siguiente
+
+Ya copiada te diriges a la lupa de windows ***Que Se encuentra en la barra de tareas*** y escribes lo siguiente "`Variables de entorno`"
+y te deberia salir algo como *Editar variables de Entorno*, dale click.
+Al hacerlo deberia salirte una ventana, Solo tienes que darle a "***Variables de entorno...***"
+Al darle se te abrira otra ventana, ahí estan las variables como 'comúnes' y las 'propias' en este caso
+cambiaremos las comúnes asi que en el cuadrado de abajo 
+buscaremos la variable ***path*** aunque puede estar en mayusculas o minusculas pero tiene que salir ese texto
