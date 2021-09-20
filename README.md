@@ -152,4 +152,10 @@ Ya sabiendo para que es cada variable toca cambiarlas.
 primero la que pone ***loc***
 como saben al iniciar *Zefoy* **https://zefoy.com/**
 sale un contador en el que pone lo siguiente: ***Please wait 0 minute(s) 22 seconds for your next submit!***
+
 Pues nos centraremos en la ***P*** de ***Please*** ahí estara nuestro checker.
+Basicamente las cordenadas de la variable ***loc*** estaran situadas **JUSTO** en la ***P***.
+
+Al saber eso veremos como ver las cordenadas de la pantalla.
+
+#### Codenadas de pantalla
