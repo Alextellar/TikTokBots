@@ -9,4 +9,5 @@ Este enlace te descargara python.
 **Es importante aclarar que en la instalacion tienen que seleccionar "añadir pip al path" si no lo hicieron ahora veran como añadirlo**
 
 ## Añadir el comando PIP al path
-primero es comprobar si no lo tiene configuraro para verlo abre la **cmd** con Wind+R y escriba "cmd"
+primero es comprobar si no lo tiene configuraro para verlo abre la **cmd** con Wind+R y escriba *"cmd"*
+En la **cmd** escriba el siguiente comando `pip --version`
