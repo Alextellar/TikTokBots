@@ -54,6 +54,7 @@ https://www.pchardwarepro.com/como-copiar-la-ruta-de-un-archivo-o-una-carpeta-en
 
 Ya copiada te diriges a la lupa de windows ***Que Se encuentra en la barra de tareas*** y escribes lo siguiente "`Variables de entorno`"
 y te deberia salir algo como *Editar variables de Entorno*, dale click.
+
 Al hacerlo deberia salirte una ventana, Solo tienes que darle a "***Variables de entorno...***"
 Al darle se te abrira otra ventana, ahí estan las variables como 'comúnes' y las 'propias' en este caso
 cambiaremos las comúnes asi que en el cuadrado de abajo 
