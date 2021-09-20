@@ -158,4 +158,10 @@ Basicamente las cordenadas de la variable ***loc*** estaran situadas **JUSTO** e
 
 Al saber eso veremos como ver las cordenadas de la pantalla.
 
-#### Codenadas de pantalla
+### Codenadas de pantalla
+Aquí veremos como ver las cordenadas de la pantalla y esto es **MUY** importante
+En primer lugar tenemos en el repositorio el archivo llamado ***Cords.py*** este archivo es el que nos mostrara las cordenadas.
+
+Lo que dire a continuacion sera temporal es decir lo podeis eliminar cuando diga que ya no sera necesario.
+
+1.Crea una carpeta en el escritorio y llamala "***a***" asi tal cual, *a*, y dentro mete en un archivo de python ***.py***
