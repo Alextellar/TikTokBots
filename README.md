@@ -10,7 +10,31 @@ Este enlace te descargara python.
 
 ## Añadir el comando PIP al path
 primero es comprobar si no lo tiene configuraro para verlo abre la **cmd** con Wind+R y escriba *"cmd"*
-En la **cmd** escriba el siguiente comando
+En la **cmd** escriba el siguiente comando:
+
 ```
 pip --version
 ```
+
+Si al ponerlo te sale algo como esto:
+
+```
+C:\Users\UserName>pip --version
+pip 21.2.4 from c:\users\UserName\appdata\local\programs\python\python39\lib\site-packages\pip (python 3.9)
+
+C:\Users\UserName>
+```
+
+Singnifica que esta añadido y puedes ir al siguiente paso
+
+si sale lo siguiente:
+
+```
+ C:\Users\UserName>pip --version
+"pip" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\UserName>
+```
+
+Siga los siguientes pasos.
