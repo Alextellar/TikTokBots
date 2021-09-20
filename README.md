@@ -80,3 +80,12 @@ pip 21.2.4 from c:\users\UserName\appdata\local\programs\python\python39\lib\sit
 
 C:\Users\UserName>
 ```
+
+## Instalacion de librerias
+Este paso es muy cortito y facíl.
+en el **cmd** tendrás que poner lo siguiente: 
+```python
+pip install pyautogui
+```
+
+Esto lo que hara sera añadir al ordenador la libreria necesaria para que funcione el programa
