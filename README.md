@@ -59,3 +59,10 @@ Al hacerlo deberia salirte una ventana, Solo tienes que darle a "***Variables de
 Al darle se te abrira otra ventana, ahí estan las variables como 'comúnes' y las 'propias' en este caso
 cambiaremos las comúnes asi que en el cuadrado de abajo 
 buscaremos la variable ***path*** aunque puede estar en mayusculas o minusculas pero tiene que salir ese texto
+
+Si la encontrais la clickeais 1 vez solo esto es **Para seleccionarla**
+y le dais al botón que pone ***Editar...***
+
+Se abrira otra ventana vosotros le dais al botón que pone ***Nuevo*** y poneis la ruta de la carpeta
+
+Luego le dais a todas las pestañas ***Aceptar*** y estaria añadido al path.
